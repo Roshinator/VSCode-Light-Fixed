@@ -7,4 +7,15 @@
             "activityBar.foreground": "#333333",
             "activityBar.activeBackground": "#F3F3F3",
         }
+    },
+"editor.tokenColorCustomizations": 
+    {
+        "[Default Light+]": 
+        {
+            "comments": "#6c6c6c"
+        },
+        "[Default Dark+]": 
+        {
+            "comments": "#6F6F6F"
+        }
     }
