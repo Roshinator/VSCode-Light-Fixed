@@ -1,5 +1,5 @@
 # VSCode-Light-Fixed
-Fixes the horrible black sidebar on VSCode's light theme and makes comments less green and annoying.
+Fixes the horrible black sidebar on VSCode's light theme and makes comments less green and annoying. This also has small customizations on the dark theme to maintain some more consistency if you like auto-switching themes.
 ![A beautiful screenshot](LightThemeFixed.png)
 
 # How to add to VSCode
