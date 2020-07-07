@@ -6,6 +6,13 @@
             "activityBar.inactiveForeground": "#6A6A6A",
             "activityBar.foreground": "#333333",
             "activityBar.activeBackground": "#F3F3F3",
+            "editorBracketMatch.background": "#fffa5c",
+            "editorBracketMatch.border": "#00000000"
+        },
+        "[Default Dark+]": {
+            "activityBar.activeBackground": "#252526",
+            "editorBracketMatch.background": "#7f302b",
+            "editorBracketMatch.border": "#00000000"
         }
     },
 "editor.tokenColorCustomizations": 
