@@ -1,28 +1,11 @@
-"workbench.colorCustomizations":
-    {
-        "[Default Light+]": 
-        {
+"workbench.colorCustomizations": {
+        "[Default Light+]": {
             "activityBar.background": "#E6E6E6",
             "activityBar.inactiveForeground": "#6A6A6A",
             "activityBar.foreground": "#333333",
-            "activityBar.activeBackground": "#F3F3F3",
-            "editorBracketMatch.background": "#fffa5c",
-            "editorBracketMatch.border": "#00000000"
+            "activityBar.activeBackground": "#F3F3F3"
         },
         "[Default Dark+]": {
-            "activityBar.activeBackground": "#252526",
-            "editorBracketMatch.background": "#7f302b",
-            "editorBracketMatch.border": "#00000000"
+            "activityBar.activeBackground": "#252526"
         }
     },
-"editor.tokenColorCustomizations": 
-    {
-        "[Default Light+]": 
-        {
-            "comments": "#6c6c6c"
-        },
-        "[Default Dark+]": 
-        {
-            "comments": "#6F6F6F"
-        }
-    }
